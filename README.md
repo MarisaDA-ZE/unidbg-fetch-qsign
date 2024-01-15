@@ -1,4 +1,5 @@
 # unidbg-fetch-qsign
+并非原创！！！复刻的。
 
 获取QQSign参数通过Unidbg，开放HTTP API。unidbg-fetch-sign最低从QQ8.9.33（不囊括）开始支持，TIM不支持。
 
